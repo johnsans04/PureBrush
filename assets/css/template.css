@@ -464,7 +464,7 @@ footer .footer-interactions .social-media .fa-brands:nth-child(odd) {
   margin: 0 12px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1200px) {
   /* Topo da página */
   header {
     padding: 30px;
@@ -634,7 +634,7 @@ footer .footer-interactions .social-media .fa-brands:nth-child(odd) {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
   /* Topo da página */
   header {
     padding: 15px;
